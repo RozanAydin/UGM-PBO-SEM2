@@ -1,0 +1,15 @@
+perbedaan pemrograman Python prosedural dan berorientasi objek
+
+pemrograman Python prosedural:
+1. Menggunakan fungsi dan perintah
+2. Data mudah diakses dan diubah
+3. Kode lebih sulit digunakan kembali
+4. Cocok untuk proyek kecil
+5. lebih hemat memori
+
+pemrograman berorientasi objek:
+1. Menggunakan kelas dan objek
+2. Data lebih sulit diakses
+3. Kode mudah digunakan kembali dengan inheritance
+4. Cocok untuk proyek besar
+5. Lebih memakan memori
